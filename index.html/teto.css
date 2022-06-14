@@ -1,0 +1,22 @@
+body {
+	width:50%;
+	margin:auto;
+	background: url(teto.jpg) center;
+	color: white;
+}
+
+main {
+	background: #123456;
+	padding: 5px 30px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+.titulo {
+	margin: 0;
+	text-align: center;
+}
+.textinho {
+	text-align: center;
+}
